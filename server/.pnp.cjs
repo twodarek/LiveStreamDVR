@@ -71,7 +71,7 @@ const RAW_RUNTIME_STATE =
           ["jest-environment-node", "npm:29.6.1"],\
           ["minimatch", "npm:9.0.3"],\
           ["minimist", "npm:1.2.8"],\
-          ["morgan", "npm:1.10.0"],\
+          ["morgan", "npm:1.12.1"],\
           ["nodemon", "npm:3.0.1"],\
           ["prettier", "npm:3.0.0"],\
           ["sanitize-filename", "npm:1.6.3"],\
@@ -7118,7 +7118,7 @@ const RAW_RUNTIME_STATE =
           ["jest-environment-node", "npm:29.6.1"],\
           ["minimatch", "npm:9.0.3"],\
           ["minimist", "npm:1.2.8"],\
-          ["morgan", "npm:1.10.0"],\
+          ["morgan", "npm:1.12.1"],\
           ["nodemon", "npm:3.0.1"],\
           ["prettier", "npm:3.0.0"],\
           ["sanitize-filename", "npm:1.6.3"],\
@@ -7509,15 +7509,15 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["morgan", [\
-      ["npm:1.10.0", {\
-        "packageLocation": "./.yarn/cache/morgan-npm-1.10.0-a0da109b6b-4497ace00d.zip/node_modules/morgan/",\
+      ["npm:1.12.1", {\
+        "packageLocation": "./.yarn/cache/morgan-npm-1.12.1-8eb8670eed-b907f52654.zip/node_modules/morgan/",\
         "packageDependencies": [\
-          ["morgan", "npm:1.10.0"],\
+          ["morgan", "npm:1.12.1"],\
           ["basic-auth", "npm:2.0.1"],\
           ["debug", "virtual:0819dbe06c028ed82b45fc11021fc9e474d69a1dd2911cea2d866d094407eaa6ab88fb2220200e1c178168f363713875d8626748d6757a812c36c845e3d6e907#npm:2.6.9"],\
           ["depd", "npm:2.0.0"],\
-          ["on-finished", "npm:2.3.0"],\
-          ["on-headers", "npm:1.0.2"]\
+          ["on-finished", "npm:2.4.1"],\
+          ["on-headers", "npm:1.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -7793,14 +7793,6 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["on-finished", [\
-      ["npm:2.3.0", {\
-        "packageLocation": "./.yarn/cache/on-finished-npm-2.3.0-4ce92f72c6-1db595bd96.zip/node_modules/on-finished/",\
-        "packageDependencies": [\
-          ["on-finished", "npm:2.3.0"],\
-          ["ee-first", "npm:1.1.1"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:2.4.1", {\
         "packageLocation": "./.yarn/cache/on-finished-npm-2.4.1-907af70f88-8e81472c50.zip/node_modules/on-finished/",\
         "packageDependencies": [\
@@ -7815,6 +7807,13 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/on-headers-npm-1.0.2-e7cd3ea25e-870766c163.zip/node_modules/on-headers/",\
         "packageDependencies": [\
           ["on-headers", "npm:1.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:1.1.0", {\
+        "packageLocation": "./.yarn/cache/on-headers-npm-1.1.0-7d18779060-98aa64629f.zip/node_modules/on-headers/",\
+        "packageDependencies": [\
+          ["on-headers", "npm:1.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
